@@ -1,0 +1,19 @@
+body{
+  max-width: 480px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Platforms */
+.platform-title{
+  font-size: 110%;
+}
+
+.platform-status{
+  font-size: 100%;
+}
+
+/* ISPs */
+.isp-title{
+  font-size: 120%;
+}

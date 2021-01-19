@@ -1,0 +1,44 @@
+[
+    {
+        "name": "fb",
+        "title": "Facebook",
+        "url": "https:\/\/www.facebook.com",
+        "position": 10
+    },
+    {
+        "name": "instagram",
+        "title": "Instagram",
+        "url": "https:\/\/www.instagram.com",
+        "position": 10
+    },
+    {
+        "name": "telegram",
+        "title": "Telegram",
+        "url": "https:\/\/web.telegram.org",
+        "position": 10
+    },
+    {
+        "name": "twitter",
+        "title": "Twitter",
+        "url": "https:\/\/www.twitter.com",
+        "position": 10
+    },
+    {
+        "name": "whatsapp",
+        "title": "WhatsApp",
+        "url": "https:\/\/web.whatsapp.com",
+        "position": 10
+    },
+    {
+        "name": "youtube",
+        "title": "YouTube",
+        "url": "https:\/\/www.youtube.com",
+        "position": 20
+    },
+    {
+        "name": "gou",
+        "title": "Uganda National Web Portal",
+        "url": "https:\/\/www.gou.go.ug",
+        "position": 999
+    }
+]
