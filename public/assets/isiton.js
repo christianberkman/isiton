@@ -4,7 +4,7 @@
 var platforms
 
 // Get and Check platforms
-$.getJSON("/data/platforms.json", function( data ) {
+$.getJSON("/data/platforms.json?" + (+new Date()), function( data ) {
   console.log('/data/platforms.json loaded')
   platforms = data
 
@@ -64,7 +64,7 @@ $('#refresh').click(function(){
       setPlatformStatus(platform.name, 'error')
     }
 
-    var url = platform.url + '/favicon.ico?' + (+new Date())
+    var url = platform.url + '/favicon.ico?' + (+new Date(+new Date())())
     console.log('getting '+ url)
     img.src = url
   }
