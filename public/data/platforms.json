@@ -54,6 +54,12 @@
         "position": 20
     },
     {
+        "name": "zoom",
+        "title": "Zoom",
+        "url": "https:\/\/support.zoom.us",
+        "position": 20
+    },
+    {
         "name": "gou",
         "title": "Uganda National Web Portal",
         "url": "https:\/\/www.gou.go.ug",
