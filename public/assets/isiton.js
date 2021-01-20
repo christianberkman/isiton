@@ -64,7 +64,7 @@ $('#refresh').click(function(){
       setPlatformStatus(platform.name, 'error')
     }
 
-    var url = platform.url + '/favicon.ico?' + (+new Date(+new Date())())
+    var url = platform.url + '/favicon.ico?' + (+new Date())
     console.log('getting '+ url)
     img.src = url
   }
