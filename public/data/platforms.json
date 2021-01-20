@@ -60,6 +60,12 @@
         "position": 20
     },
     {
+        "name": "github",
+        "title": "GitHub",
+        "url": "https:\/\/www.github.com",
+        "position": 99
+    },
+    {
         "name": "gou",
         "title": "Uganda National Web Portal",
         "url": "https:\/\/www.gou.go.ug",
