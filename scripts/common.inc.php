@@ -26,7 +26,7 @@ function readJson(string $jsonFile){
 
 function writeJson(string $jsonFile, array $array = []){
   $jsonPath = DATA_FOLDER . $jsonFile;
-  $jsonContents = json_encode($array, JSON_PRETTY_PRINT);
+  $jsonContents = json_encode(array_values($array), JSON_PRETTY_PRINT);
   if(!$jsonContents){ printError('Could not encode new JSON file'); exit;}
   $fileHandler = fopen($jsonPath, 'w+');
     fwrite($fileHandler, $jsonContents);
