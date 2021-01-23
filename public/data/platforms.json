@@ -6,10 +6,34 @@
         "position": 10
     },
     {
+        "name": "github",
+        "title": "GitHub",
+        "url": "https:\/\/www.github.com",
+        "position": 99
+    },
+    {
+        "name": "gmeet",
+        "title": "Google Meet",
+        "url": "https:\/\/meet.google.com",
+        "position": 20
+    },
+    {
         "name": "instagram",
         "title": "Instagram",
         "url": "https:\/\/www.instagram.com",
         "position": 10
+    },
+    {
+        "name": "pinterest",
+        "title": "Pinterest",
+        "url": "https:\/\/www.pinterest.com",
+        "position": 99
+    },
+    {
+        "name": "skype",
+        "title": "Skype",
+        "url": "https:\/\/www.skype.com",
+        "position": 20
     },
     {
         "name": "telegram",
@@ -24,6 +48,12 @@
         "position": 10
     },
     {
+        "name": "gou",
+        "title": "Uganda National Web Portal",
+        "url": "https:\/\/www.gou.go.ug",
+        "position": 999
+    },
+    {
         "name": "wechat",
         "title": "WeChat",
         "url": "https:\/\/www.wechat.com",
@@ -36,18 +66,6 @@
         "position": 10
     },
     {
-        "name": "gmeet",
-        "title": "Google Meet",
-        "url": "https:\/\/meet.google.com",
-        "position": 20
-    },
-    {
-        "name": "skype",
-        "title": "Skype",
-        "url": "https:\/\/www.skype.com",
-        "position": 20
-    },
-    {
         "name": "youtube",
         "title": "YouTube",
         "url": "https:\/\/www.youtube.ug",
@@ -58,17 +76,5 @@
         "title": "Zoom",
         "url": "https:\/\/support.zoom.us",
         "position": 20
-    },
-    {
-        "name": "github",
-        "title": "GitHub",
-        "url": "https:\/\/www.github.com",
-        "position": 99
-    },
-    {
-        "name": "gou",
-        "title": "Uganda National Web Portal",
-        "url": "https:\/\/www.gou.go.ug",
-        "position": 999
     }
 ]
