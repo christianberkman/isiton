@@ -1,5 +1,5 @@
 # Is It On?
-Is It On? is a very simple tool created the complete internet disconnection in Uganda in January 2021. I challanged myself to create this tool with only offline documentation at hand for jQuery, Bootstrap and PHP.
+Is It On? is a very simple tool created during the complete internet disconnection in Uganda in January 2021. I challanged myself to create this tool with only offline documentation at hand for jQuery, Bootstrap and PHP.
 
 # What it does
 The tool (attempts) to check if the listed platforms can be reached from the local device by loading their ` /favicon.ico`. Most domains have this file and make it accessible.
